@@ -1,0 +1,89 @@
+﻿Looking in indexes: https://mirrors.huaweicloud.com/repository/pypi/simple/
+Collecting streamlit
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/a0/2b/b710d52297f733e703fecce3614d6cfa81e11d241c246354fb5b55aa9572/streamlit-1.12.0-py2.py3-none-any.whl (9.1 MB)
+     ---------------------------------------- 9.1/9.1 MB 10.7 MB/s eta 0:00:00
+Collecting altair>=3.2.0 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/db/33/ef2f2409450ef6daa61459d5de5c08128e7d3edb773fefd0a324d1310238/altair-6.0.0-py3-none-any.whl (795 kB)
+     -------------------------------------- 795.4/795.4 kB 4.9 MB/s eta 0:00:00
+Collecting blinker>=1.0.0 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/10/cb/f2ad4230dc2eb1a74edf38f1a38b9b52277f75bef262d8908e60d957e13c/blinker-1.9.0-py3-none-any.whl (8.5 kB)
+Collecting cachetools>=4.0 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/90/45/f458fa2c388e79dd9d8b9b0c99f1d31b568f27388f2fdba7bb66bbc0c6ed/cachetools-6.2.6-py3-none-any.whl (11 kB)
+Requirement already satisfied: click>=7.0 in e:\py\lib\site-packages (from streamlit) (8.1.8)
+Requirement already satisfied: importlib-metadata>=1.4 in e:\py\lib\site-packages (from streamlit) (7.1.0)
+Requirement already satisfied: numpy in e:\py\lib\site-packages (from streamlit) (1.26.4)
+Requirement already satisfied: packaging>=14.1 in e:\py\lib\site-packages (from streamlit) (24.1)
+Requirement already satisfied: pandas>=0.21.0 in e:\py\lib\site-packages (from streamlit) (2.2.2)
+Requirement already satisfied: pillow>=6.2.0 in e:\py\lib\site-packages (from streamlit) (10.3.0)
+Collecting protobuf<4,>=3.12 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/11/a5/e52b731415ad6ef3d841e9e6e337a690249e800cc7c06f0749afab26348c/protobuf-3.20.3-cp39-cp39-win_amd64.whl (904 kB)
+     -------------------------------------- 904.2/904.2 kB 5.9 MB/s eta 0:00:00
+Collecting pyarrow>=4.0 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/10/15/6b30e77872012bbfe8265d42a01d5b3c17ef0ac0f2fae531ad91b6a6c02e/pyarrow-21.0.0-cp39-cp39-win_amd64.whl (26.2 MB)
+     --------------------------------------- 26.2/26.2 MB 10.2 MB/s eta 0:00:00
+Collecting pydeck>=0.1.dev5 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/6f/34/3998411437aff304a9ed4fa37a6fe1ef3132bcd2b5eac59851b80c86123c/pydeck-0.9.3-py2.py3-none-any.whl (11.4 MB)
+     --------------------------------------- 11.4/11.4 MB 10.4 MB/s eta 0:00:00
+Collecting pympler>=0.9 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/79/4f/a6a2e2b202d7fd97eadfe90979845b8706676b41cbd3b42ba75adf329d1f/Pympler-1.1-py3-none-any.whl (165 kB)
+Requirement already satisfied: python-dateutil in e:\py\lib\site-packages (from streamlit) (2.9.0.post0)
+Requirement already satisfied: requests>=2.4 in e:\py\lib\site-packages (from streamlit) (2.32.3)
+Requirement already satisfied: rich>=10.11.0 in e:\py\lib\site-packages (from streamlit) (13.7.1)
+Collecting semver (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/a6/24/4d91e05817e92e3a61c8a21e08fd0f390f5301f1c448b137c57c4bc6e543/semver-3.0.4-py3-none-any.whl (17 kB)
+Collecting toml (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/44/6f/7120676b6d73228c96e17f1f794d8ab046fc910d781c8d151120c3f1569e/toml-0.10.2-py2.py3-none-any.whl (16 kB)
+Requirement already satisfied: tornado>=5.0 in e:\py\lib\site-packages (from streamlit) (6.4.1)
+Requirement already satisfied: typing-extensions>=3.10.0.0 in e:\py\lib\site-packages (from streamlit) (4.16.0)
+Collecting tzlocal>=1.1 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/c2/14/e2a54fabd4f08cd7af1c07030603c3356b74da07f7cc056e600436edfa17/tzlocal-5.3.1-py3-none-any.whl (18 kB)
+Collecting validators>=0.2 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/fa/6e/3e955517e22cbdd565f2f8b2e73d52528b14b8bcfdb04f62466b071de847/validators-0.35.0-py3-none-any.whl (44 kB)
+Collecting gitpython!=3.1.19 (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/6b/50/2a923c4dc02522ff9567f07c67ed1deca6d5fa9474f4708168b8088dfa37/gitpython-3.2.1-py3-none-any.whl (231 kB)
+Collecting watchdog (from streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/db/d9/c495884c6e548fce18a8f40568ff120bc3a4b7b99813081c8ac0c936fa64/watchdog-6.0.0-py3-none-win_amd64.whl (79 kB)
+Requirement already satisfied: jinja2 in e:\py\lib\site-packages (from altair>=3.2.0->streamlit) (3.1.4)
+Requirement already satisfied: jsonschema>=3.0 in e:\py\lib\site-packages (from altair>=3.2.0->streamlit) (4.22.0)
+Collecting narwhals>=1.27.1 (from altair>=3.2.0->streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/c7/e1/68c2256b69a314eba133673377ba9118c356f6342a0c02b61de449cf2bf2/narwhals-2.21.0-py3-none-any.whl (451 kB)
+Requirement already satisfied: colorama in e:\py\lib\site-packages (from click>=7.0->streamlit) (0.4.6)
+Collecting gitdb<5,>=4.0.1 (from gitpython!=3.1.19->streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/a0/61/5c78b91c3143ed5c14207f463aecfc8f9dbb5092fb2869baf37c273b2705/gitdb-4.0.12-py3-none-any.whl (62 kB)
+Requirement already satisfied: zipp>=0.5 in e:\py\lib\site-packages (from importlib-metadata>=1.4->streamlit) (3.19.2)
+Requirement already satisfied: pytz>=2020.1 in e:\py\lib\site-packages (from pandas>=0.21.0->streamlit) (2024.1)
+Requirement already satisfied: tzdata>=2022.7 in e:\py\lib\site-packages (from pandas>=0.21.0->streamlit) (2024.1)
+Requirement already satisfied: pywin32>=226 in e:\py\lib\site-packages (from pympler>=0.9->streamlit) (306)
+Requirement already satisfied: six>=1.5 in e:\py\lib\site-packages (from python-dateutil->streamlit) (1.16.0)
+Requirement already satisfied: charset-normalizer<4,>=2 in e:\py\lib\site-packages (from requests>=2.4->streamlit) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in e:\py\lib\site-packages (from requests>=2.4->streamlit) (3.7)
+Requirement already satisfied: urllib3<3,>=1.21.1 in e:\py\lib\site-packages (from requests>=2.4->streamlit) (2.2.2)
+Requirement already satisfied: certifi>=2017.4.17 in e:\py\lib\site-packages (from requests>=2.4->streamlit) (2024.6.2)
+Requirement already satisfied: markdown-it-py>=2.2.0 in e:\py\lib\site-packages (from rich>=10.11.0->streamlit) (3.0.0)
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in e:\py\lib\site-packages (from rich>=10.11.0->streamlit) (2.18.0)
+Collecting smmap<6,>=3.0.1 (from gitdb<5,>=4.0.1->gitpython!=3.1.19->streamlit)
+  Downloading https://mirrors.huaweicloud.com/repository/pypi/packages/c1/d4/59e74daffcb57a07668852eeeb6035af9f32cbfd7a1d2511f17d2fe6a738/smmap-5.0.3-py3-none-any.whl (24 kB)
+Requirement already satisfied: MarkupSafe>=2.0 in e:\py\lib\site-packages (from jinja2->altair>=3.2.0->streamlit) (2.1.5)
+Requirement already satisfied: attrs>=22.2.0 in e:\py\lib\site-packages (from jsonschema>=3.0->altair>=3.2.0->streamlit) (23.2.0)
+Requirement already satisfied: jsonschema-specifications>=2023.03.6 in e:\py\lib\site-packages (from jsonschema>=3.0->altair>=3.2.0->streamlit) (2023.12.1)
+Requirement already satisfied: referencing>=0.28.4 in e:\py\lib\site-packages (from jsonschema>=3.0->altair>=3.2.0->streamlit) (0.35.1)
+Requirement already satisfied: rpds-py>=0.7.1 in e:\py\lib\site-packages (from jsonschema>=3.0->altair>=3.2.0->streamlit) (0.18.1)
+Requirement already satisfied: mdurl~=0.1 in e:\py\lib\site-packages (from markdown-it-py>=2.2.0->rich>=10.11.0->streamlit) (0.1.2)
+Installing collected packages: watchdog, validators, tzlocal, toml, smmap, semver, pympler, pyarrow, protobuf, narwhals, cachetools, blinker, pydeck, gitdb, gitpython, altair, streamlit
+  Attempting uninstall: protobuf
+    Found existing installation: protobuf 5.29.4
+    Uninstalling protobuf-5.29.4:
+      Successfully uninstalled protobuf-5.29.4
+E:\py\python.exe : ERROR: pip's dependency resolver does not currently take into account all the packages that are inst
+alled. This behaviour is the source of the following dependency conflicts.
+所在位置 行:1 字符: 1
++ E:\py\python.exe -m pip install streamlit 1> "E:\xiazai\MATH7005_Recy ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (ERROR: pip's de...ency conflicts.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+yfinance 0.2.59 requires protobuf<6,>=5.29.0, but you have protobuf 3.20.3 which is incompatible.
+Successfully installed altair-6.0.0 blinker-1.9.0 cachetools-6.2.6 gitdb-4.0.12 gitpython-3.2.1 narwhals-2.21.0 protobuf-3.20.3 pyarrow-21.0.0 pydeck-0.9.3 pympler-1.1 semver-3.0.4 smmap-5.0.3 streamlit-1.12.0 toml-0.10.2 tzlocal-5.3.1 validators-0.35.0 watchdog-6.0.0
+
+[notice] A new release of pip is available: 24.3.1 -> 26.0.1
+[notice] To update, run: E:\py\python.exe -m pip install --upgrade pip

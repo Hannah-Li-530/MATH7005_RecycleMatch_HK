@@ -1,0 +1,9 @@
+﻿C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\python.exe : 2026-10-22 14:58:44.781 WARNING streamlit.runtime.
+scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when 
+running in bare mode.
+所在位置 行:1 字符: 71
++ ... ython_app"; C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\p ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-10-22 14:5...g in bare mode.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

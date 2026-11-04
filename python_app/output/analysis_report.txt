@@ -1,0 +1,63 @@
+RecycleMatch HK — analysis report
+Dataset: RecycleMatch_HK_public_points_clean.csv (frozen)
+Points with coordinates: 5,868 · Transactions: 5,868
+Apriori min_support=0.02, min_confidence=0.6
+
+Frequent itemsets found: 1,029 (including 1,016 of size >= 2)
+
+Top frequent itemsets by support:
+                itemset  size  support  count
+                 metals     1   0.5849   3432
+               plastics     1   0.5412   3176
+                  paper     1   0.5341   3134
+       metals, plastics     2   0.5325   3125
+          metals, paper     2   0.5303   3112
+        paper, plastics     2   0.4831   2835
+metals, paper, plastics     3   0.4819   2828
+             food waste     1   0.2601   1526
+ rechargeable batteries     1   0.2128   1249
+         plastic bottle     1   0.1634    959
+  paper, plastic bottle     2   0.1546    907
+ metals, plastic bottle     2   0.1537    902
+
+Association rules found: 5,056
+
+Top rules by confidence:
+                                      antecedent consequent  support  confidence   lift
+                         glass bottles, plastics      paper   0.1365         1.0 1.8724
+                         glass bottles, plastics     metals   0.1365         1.0 1.7098
+                  glass bottles, paper, plastics     metals   0.1365         1.0 1.7098
+                 glass bottles, metals, plastics      paper   0.1365         1.0 1.8724
+                   paper, rechargeable batteries   plastics   0.1242         1.0 1.8476
+                   paper, rechargeable batteries     metals   0.1242         1.0 1.7098
+         paper, plastics, rechargeable batteries     metals   0.1242         1.0 1.7098
+        metals, plastics, rechargeable batteries      paper   0.1242         1.0 1.8724
+           metals, paper, rechargeable batteries   plastics   0.1242         1.0 1.8476
+                 paper, plastic bottle, plastics     metals   0.1230         1.0 1.7098
+                metals, plastic bottle, plastics      paper   0.1230         1.0 1.8724
+paper, small electrical and electronic equipment     metals   0.1053         1.0 1.7098
+
+District supply profile:
+Districts: 18 · Total public points: 5,868
+Most points: Yuen_Long (469)
+Fewest points: Central_Western (218)
+Opening hours missing overall: 58.9%
+Material categories across districts: 12–14
+
+Top 5 districts by point count:
+district_id  point_count  material_categories  material_combinations  opening_hours_missing
+  Yuen_Long          469                   13                     22               0.597015
+  Kwun_Tong          435                   12                     24               0.344828
+    Sha_Tin          430                   13                     23               0.569767
+   Sai_Kung          420                   13                     23               0.788095
+    Eastern          368                   14                     25               0.578804
+
+Bottom 5 districts by point count:
+    district_id  point_count  material_categories  material_combinations  opening_hours_missing
+       Wan_Chai          264                   13                     24               0.731061
+  Yau_Tsim_Mong          249                   12                     21               0.722892
+   Wong_Tai_Sin          249                   12                     15               0.325301
+       Southern          244                   14                     19               0.639344
+Central_Western          218                   13                     24               0.541284
+
+Files written to python_app/output/.

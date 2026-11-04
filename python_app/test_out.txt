@@ -1,0 +1,25 @@
+﻿PASS  haversine zero distance
+PASS  haversine HKU-Central ~2-3 km
+PASS  haversine symmetric
+PASS  nearest filters by material
+PASS  nearest ranks by distance
+PASS  nearest case-insensitive
+PASS  nearest no-match empty
+PASS  tie-breaking picks both, closer first
+PASS  tie-breaking distance order
+PASS  duplicate materials collapse to one
+PASS  fewer-stops no-match empty
+PASS  full coverage with two stops
+PASS  all materials covered
+PASS  apriori finds 6 frequent itemsets
+PASS  apriori supports match hand computation
+PASS  apriori prunes infrequent 3-itemset
+PASS  apriori confidence threshold respected
+PASS  apriori generates rules below threshold
+PASS  transactions parse and normalize
+PASS  district summary point counts
+PASS  district summary categories
+PASS  district summary combinations
+PASS  district summary missing-hours ratio
+
+23 passed, 0 failed

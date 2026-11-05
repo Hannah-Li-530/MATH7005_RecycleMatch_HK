@@ -19,7 +19,9 @@ import pandas as pd
 
 from analysis_district import district_summary
 from apriori import apriori, load_transactions
-from app import haversine_km, recommend_fewer_stops, recommend_nearest
+from core import haversine_km, recommend_fewer_stops, recommend_nearest
+from recycling_service import machines, points, ranked_candidates
+from rewards_model import load_rewards
 
 _PASSED = 0
 _FAILED = 0
@@ -187,6 +189,18 @@ def test_district_summary() -> None:
           abs(summary.loc["Kwai_Tsing", "opening_hours_missing"] - 0.5) < 1e-9)
 
 
+def test_utf8_snapshots_and_cached_rankings() -> None:
+    # Both snapshots contain Traditional Chinese and must be read as UTF-8 on Windows.
+    check("public-point snapshot loads all rows", len(points()) == 5868, str(len(points())))
+    check("RVM UTF-8 snapshot loads all machines", len(machines()) == 120, str(len(machines())))
+    check("reward UTF-8 snapshot loads all gifts", len(load_rewards()["gifts"]) == 14,
+          str(len(load_rewards()["gifts"])))
+    first = ranked_candidates(22.372762, 114.178690, 1)
+    second = ranked_candidates(22.372762, 114.178690, 1)
+    check("cached rankings preserve the same order",
+          list(first.cp_id.head(5)) == list(second.cp_id.head(5)))
+
+
 def main() -> None:
     test_haversine()
     test_recommend_nearest()
@@ -197,6 +211,7 @@ def main() -> None:
     test_apriori_hand_example()
     test_load_transactions()
     test_district_summary()
+    test_utf8_snapshots_and_cached_rankings()
     print(f"\n{_PASSED} passed, {_FAILED} failed")
     sys.exit(1 if _FAILED else 0)
 

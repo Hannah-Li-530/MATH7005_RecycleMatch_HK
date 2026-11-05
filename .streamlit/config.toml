@@ -1,0 +1,27 @@
+[theme]
+base = "light"
+primaryColor = "#168265"
+backgroundColor = "#F5F9F7"
+secondaryBackgroundColor = "#F1F6F4"
+textColor = "#243D3A"
+linkColor = "#286F9F"
+font = "sans serif"
+borderColor = "#DFE8E7"
+baseRadius = "1.25rem"
+buttonRadius = "0.75rem"
+showWidgetBorder = true
+headingFontSizes = ["2.25rem", "1.75rem", "1.35rem", "1.125rem", "1rem", "0.875rem"]
+metricValueFontSize = "1.9rem"
+metricValueFontWeight = 600
+blueColor = "#286F9F"
+blueBackgroundColor = "#EDF6FE"
+blueTextColor = "#245D80"
+greenColor = "#168265"
+greenBackgroundColor = "#EEF8F2"
+greenTextColor = "#176F56"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = false

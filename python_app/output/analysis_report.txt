@@ -24,17 +24,17 @@ Association rules found: 5,056
 
 Top rules by confidence:
                                       antecedent consequent  support  confidence   lift
-                         glass bottles, plastics      paper   0.1365         1.0 1.8724
                          glass bottles, plastics     metals   0.1365         1.0 1.7098
-                  glass bottles, paper, plastics     metals   0.1365         1.0 1.7098
+                         glass bottles, plastics      paper   0.1365         1.0 1.8724
                  glass bottles, metals, plastics      paper   0.1365         1.0 1.8724
+                  glass bottles, paper, plastics     metals   0.1365         1.0 1.7098
                    paper, rechargeable batteries   plastics   0.1242         1.0 1.8476
                    paper, rechargeable batteries     metals   0.1242         1.0 1.7098
-         paper, plastics, rechargeable batteries     metals   0.1242         1.0 1.7098
-        metals, plastics, rechargeable batteries      paper   0.1242         1.0 1.8724
            metals, paper, rechargeable batteries   plastics   0.1242         1.0 1.8476
-                 paper, plastic bottle, plastics     metals   0.1230         1.0 1.7098
+        metals, plastics, rechargeable batteries      paper   0.1242         1.0 1.8724
+         paper, plastics, rechargeable batteries     metals   0.1242         1.0 1.7098
                 metals, plastic bottle, plastics      paper   0.1230         1.0 1.8724
+                 paper, plastic bottle, plastics     metals   0.1230         1.0 1.7098
 paper, small electrical and electronic equipment     metals   0.1053         1.0 1.7098
 
 District supply profile:

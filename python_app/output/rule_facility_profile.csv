@@ -1,0 +1,15 @@
+﻿rule,facility_type,records,antecedent_count,both_count,support,confidence,lift
+paper → metals,All records,5868,3134,3112,0.5303340149965917,0.9929802169751116,1.697787853499404
+paper → metals,NGO Collection Points,41,1,1,0.024390243902439025,1.0,41.0
+paper → metals,Recycling Bins at Public Place,3585,2333,2329,0.6496513249651324,0.9982854693527646,1.3628535444134275
+paper → metals,Recycling Spots,625,512,512,0.8192,1.0,1.220703125
+paper → metals,Recycling Stations/Recycling Stores,94,94,94,1.0,1.0,1.0
+paper → metals,Smart Bin,1417,105,88,0.062103034580098804,0.8380952380952381,12.633839918946302
+paper → metals,Street Corner Recycling Shops,106,89,88,0.8301886792452831,0.9887640449438202,0.9981808453718566
+glass bottles → paper,All records,5868,869,814,0.1387184730743013,0.9367088607594937,1.7538633040640423
+glass bottles → paper,NGO Collection Points,41,0,0,0.0,,
+glass bottles → paper,Recycling Bins at Public Place,3585,245,194,0.05411436541143654,0.7918367346938775,1.2167744080058083
+glass bottles → paper,Recycling Spots,625,512,512,0.8192,1.0,1.220703125
+glass bottles → paper,Recycling Stations/Recycling Stores,94,94,94,1.0,1.0,1.0
+glass bottles → paper,Smart Bin,1417,16,12,0.008468595624558928,0.75,10.12142857142857
+glass bottles → paper,Street Corner Recycling Shops,106,2,2,0.018867924528301886,1.0,1.1910112359550562

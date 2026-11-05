@@ -1,0 +1,17 @@
+year,recovered_million_tonnes,generation_million_tonnes,official_rate_pct,source_report,generation_basis,recalculated_rate_pct
+2009,3.18,6.451495,49,2013,estimated_from_rounded_daily_disposal_and_recovery,49.29090079121196
+2010,3.6,6.92661,52,2013,estimated_from_rounded_daily_disposal_and_recovery,51.973476202644584
+2011,3.02,6.30354,48,2013,estimated_from_rounded_daily_disposal_and_recovery,47.90958731125685
+2012,2.16,5.555748,39,2013,estimated_from_rounded_daily_disposal_and_recovery,38.87865324345165
+2013,2.01,5.494655,37,2013,estimated_from_rounded_daily_disposal_and_recovery,36.58100463086399
+2014,2.05,5.62,37,2018,published,36.47686832740213
+2015,2.03,5.74,35,2019,published,35.36585365853658
+2016,1.91,5.7,34,2019,published,33.50877192982456
+2017,1.83,5.75,32,2019,published,31.826086956521742
+2018,1.78,5.95,30,2019,published,29.915966386554622
+2019,1.64,5.67,29,2019,published,28.92416225749559
+2020,1.54,5.49,28,2024,published,28.051001821493628
+2021,1.84,5.99,31,2024,published,30.71786310517529
+2022,1.91,5.97,32,2024,published,31.993299832495815
+2023,1.97,5.94,33,2024,published,33.16498316498316
+2024,2.02,5.86,34,2024,published,34.47098976109215

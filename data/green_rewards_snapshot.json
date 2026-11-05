@@ -1,0 +1,93 @@
+{
+  "checked_on": "2026-11-05",
+  "source": "https://www.wastereduction.gov.hk/sites/default/files/6green/GREEN%40COMMUNITY_Gift_Redemption_List.pdf",
+  "gifts": [
+    {
+      "name": "幼鹽 · 450 克",
+      "points": 150,
+      "category": "daily",
+      "detail": "在 18 個指定實體禮品換領點辦理，庫存以現場為準。"
+    },
+    {
+      "name": "豆奶 · 250 毫升",
+      "points": 250,
+      "category": "daily",
+      "detail": "在 18 個指定實體禮品換領點辦理，庫存以現場為準。"
+    },
+    {
+      "name": "卷裝廁紙",
+      "points": 300,
+      "category": "daily",
+      "detail": "在 18 個指定實體禮品換領點辦理，庫存以現場為準。"
+    },
+    {
+      "name": "即食麵",
+      "points": 350,
+      "category": "daily",
+      "detail": "在 18 個指定實體禮品換領點辦理，庫存以現場為準。"
+    },
+    {
+      "name": "家居廚餘桶",
+      "points": 500,
+      "category": "daily",
+      "detail": "在 18 個指定實體禮品換領點辦理，庫存以現場為準。"
+    },
+    {
+      "name": "頂級香米 · 1 公斤",
+      "points": 1000,
+      "category": "daily",
+      "detail": "在 18 個指定實體禮品換領點辦理，庫存以現場為準。"
+    },
+    {
+      "name": "芥花籽油 · 900 毫升",
+      "points": 2000,
+      "category": "daily",
+      "detail": "在 18 個指定實體禮品換領點辦理，庫存以現場為準。"
+    },
+    {
+      "name": "HK$50 超市現金券",
+      "points": 5000,
+      "category": "voucher",
+      "detail": "官方表列全線「綠在區區」設施可換領。出發前請確認供應及服務安排。"
+    },
+    {
+      "name": "美心集團 HK$20 禮券",
+      "points": 2000,
+      "category": "voucher",
+      "detail": "期間限定；在 18 個指定換領點辦理，每人每天合計最多 1 張實體餐飲禮券。換完即止，請檢查有效期。"
+    },
+    {
+      "name": "Starbucks HK$25 禮券",
+      "points": 2500,
+      "category": "voucher",
+      "detail": "期間限定；在 18 個指定換領點辦理，每人每天合計最多 1 張實體餐飲禮券。換完即止，請檢查有效期。"
+    },
+    {
+      "name": "Häagen-Dazs HK$50 禮券",
+      "points": 5000,
+      "category": "voucher",
+      "detail": "期間限定；在 18 個指定換領點辦理，每人每天合計最多 1 張實體餐飲禮券。換完即止，請檢查有效期。"
+    },
+    {
+      "name": "1,000 AlipayHK A. Point",
+      "points": 100,
+      "category": "digital",
+      "detail": "需在綠綠賞 App 綁定 AlipayHK；每月最多轉換 1,000 綠綠賞積分。A. Point 的抵扣與優惠以 AlipayHK 為準。",
+      "source": "https://www.wastereduction.gov.hk/zh-hk/green-a-point-conversion"
+    },
+    {
+      "name": "50 易賞錢積分",
+      "points": 100,
+      "category": "digital",
+      "detail": "兩邊賬戶須使用同一手機號並完成綁定；每月最多轉換 3,000 綠綠賞積分。可在參與商店或平台使用。",
+      "source": "https://www.wastereduction.gov.hk/zh-hk/green-moneyback-e-point-converions"
+    },
+    {
+      "name": "500 Carbon Wallet 積分",
+      "points": 500,
+      "category": "digital",
+      "detail": "App 換券後用於平台獎勵，如港鐵車程等。官方已公布整合至 MTR Mobile 的安排；兌換內容、積分期限及使用渠道請查最新說明。",
+      "source": "https://www.wastereduction.gov.hk/zh-hk/article/green-brings-you-carbon-wallet-e-coupons"
+    }
+  ]
+}

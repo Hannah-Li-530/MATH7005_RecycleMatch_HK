@@ -1,0 +1,181 @@
+origin,radius_km,materials,method,requested,covered,available,stops,farthest_km,minimum_stops_for_available
+九龍塘,0.5,"metals, paper, plastics",逐项最近,3,3,3,1,0.197,1
+九龍塘,0.5,"metals, paper, plastics",最近單點,3,3,3,1,0.197,1
+九龍塘,0.5,"metals, paper, plastics",贪心多點,3,3,3,1,0.197,1
+九龍塘,0.5,"glass bottles, food waste",逐项最近,2,2,2,2,0.325,2
+九龍塘,0.5,"glass bottles, food waste",最近單點,2,0,2,0,,2
+九龍塘,0.5,"glass bottles, food waste",贪心多點,2,2,2,2,0.325,2
+九龍塘,0.5,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,2,2,1,0.325,1
+九龍塘,0.5,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,2,0,,1
+九龍塘,0.5,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,2,2,1,0.325,1
+九龍塘,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.325,1
+九龍塘,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.325,1
+九龍塘,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.325,1
+九龍塘,1.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.197,1
+九龍塘,1.0,"metals, paper, plastics",最近單點,3,3,3,1,0.197,1
+九龍塘,1.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.197,1
+九龍塘,1.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.325,2
+九龍塘,1.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+九龍塘,1.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.325,2
+九龍塘,1.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,2,0.518,2
+九龍塘,1.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+九龍塘,1.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.518,2
+九龍塘,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.325,1
+九龍塘,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.325,1
+九龍塘,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.325,1
+九龍塘,3.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.197,1
+九龍塘,3.0,"metals, paper, plastics",最近單點,3,3,3,1,0.197,1
+九龍塘,3.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.197,1
+九龍塘,3.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.325,1
+九龍塘,3.0,"glass bottles, food waste",最近單點,2,2,2,1,1.673,1
+九龍塘,3.0,"glass bottles, food waste",贪心多點,2,2,2,1,1.673,1
+九龍塘,3.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,2,0.518,2
+九龍塘,3.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+九龍塘,3.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.518,2
+九龍塘,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.325,1
+九龍塘,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.325,1
+九龍塘,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.325,1
+中環,0.5,"metals, paper, plastics",逐项最近,3,3,3,1,0.048,1
+中環,0.5,"metals, paper, plastics",最近單點,3,3,3,1,0.048,1
+中環,0.5,"metals, paper, plastics",贪心多點,3,3,3,1,0.048,1
+中環,0.5,"glass bottles, food waste",逐项最近,2,2,2,2,0.314,2
+中環,0.5,"glass bottles, food waste",最近單點,2,0,2,0,,2
+中環,0.5,"glass bottles, food waste",贪心多點,2,2,2,2,0.314,2
+中環,0.5,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,2,2,2,0.158,1
+中環,0.5,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,2,0,,1
+中環,0.5,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,2,2,1,0.394,1
+中環,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.394,1
+中環,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.394,1
+中環,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.394,1
+中環,1.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.048,1
+中環,1.0,"metals, paper, plastics",最近單點,3,3,3,1,0.048,1
+中環,1.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.048,1
+中環,1.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.314,2
+中環,1.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+中環,1.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.314,2
+中環,1.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.661,2
+中環,1.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+中環,1.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.661,2
+中環,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.394,1
+中環,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.394,1
+中環,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.394,1
+中環,3.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.048,1
+中環,3.0,"metals, paper, plastics",最近單點,3,3,3,1,0.048,1
+中環,3.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.048,1
+中環,3.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.314,1
+中環,3.0,"glass bottles, food waste",最近單點,2,2,2,1,2.261,1
+中環,3.0,"glass bottles, food waste",贪心多點,2,2,2,1,2.261,1
+中環,3.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.661,2
+中環,3.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+中環,3.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.661,2
+中環,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.394,1
+中環,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.394,1
+中環,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.394,1
+沙田,0.5,"metals, paper, plastics",逐项最近,3,3,3,2,0.169,1
+沙田,0.5,"metals, paper, plastics",最近單點,3,3,3,1,0.169,1
+沙田,0.5,"metals, paper, plastics",贪心多點,3,3,3,1,0.169,1
+沙田,0.5,"glass bottles, food waste",逐项最近,2,2,2,2,0.265,2
+沙田,0.5,"glass bottles, food waste",最近單點,2,0,2,0,,2
+沙田,0.5,"glass bottles, food waste",贪心多點,2,2,2,2,0.265,2
+沙田,0.5,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,2,2,2,0.169,1
+沙田,0.5,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,2,0,,1
+沙田,0.5,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,2,2,1,0.169,1
+沙田,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,2,0.169,1
+沙田,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.169,1
+沙田,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.169,1
+沙田,1.0,"metals, paper, plastics",逐项最近,3,3,3,2,0.169,1
+沙田,1.0,"metals, paper, plastics",最近單點,3,3,3,1,0.169,1
+沙田,1.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.169,1
+沙田,1.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.265,2
+沙田,1.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+沙田,1.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.265,2
+沙田,1.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.839,2
+沙田,1.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+沙田,1.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.839,2
+沙田,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,2,0.169,1
+沙田,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.169,1
+沙田,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.169,1
+沙田,3.0,"metals, paper, plastics",逐项最近,3,3,3,2,0.169,1
+沙田,3.0,"metals, paper, plastics",最近單點,3,3,3,1,0.169,1
+沙田,3.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.169,1
+沙田,3.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.265,2
+沙田,3.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+沙田,3.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.265,2
+沙田,3.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.839,2
+沙田,3.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+沙田,3.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.839,2
+沙田,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,2,0.169,1
+沙田,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.169,1
+沙田,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.169,1
+屯門,0.5,"metals, paper, plastics",逐项最近,3,3,3,1,0.037,1
+屯門,0.5,"metals, paper, plastics",最近單點,3,3,3,1,0.037,1
+屯門,0.5,"metals, paper, plastics",贪心多點,3,3,3,1,0.037,1
+屯門,0.5,"glass bottles, food waste",逐项最近,2,2,2,2,0.173,2
+屯門,0.5,"glass bottles, food waste",最近單點,2,0,2,0,,2
+屯門,0.5,"glass bottles, food waste",贪心多點,2,2,2,2,0.173,2
+屯門,0.5,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.187,2
+屯門,0.5,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+屯門,0.5,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.187,2
+屯門,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.129,1
+屯門,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.129,1
+屯門,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.129,1
+屯門,1.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.037,1
+屯門,1.0,"metals, paper, plastics",最近單點,3,3,3,1,0.037,1
+屯門,1.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.037,1
+屯門,1.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.173,2
+屯門,1.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+屯門,1.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.173,2
+屯門,1.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.187,2
+屯門,1.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+屯門,1.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.187,2
+屯門,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.129,1
+屯門,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.129,1
+屯門,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.129,1
+屯門,3.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.037,1
+屯門,3.0,"metals, paper, plastics",最近單點,3,3,3,1,0.037,1
+屯門,3.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.037,1
+屯門,3.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.173,2
+屯門,3.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+屯門,3.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.173,2
+屯門,3.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.187,2
+屯門,3.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+屯門,3.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.187,2
+屯門,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.129,1
+屯門,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.129,1
+屯門,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.129,1
+東涌,0.5,"metals, paper, plastics",逐项最近,3,3,3,1,0.02,1
+東涌,0.5,"metals, paper, plastics",最近單點,3,3,3,1,0.02,1
+東涌,0.5,"metals, paper, plastics",贪心多點,3,3,3,1,0.02,1
+東涌,0.5,"glass bottles, food waste",逐项最近,2,2,2,2,0.174,2
+東涌,0.5,"glass bottles, food waste",最近單點,2,0,2,0,,2
+東涌,0.5,"glass bottles, food waste",贪心多點,2,2,2,2,0.174,2
+東涌,0.5,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.084,2
+東涌,0.5,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+東涌,0.5,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.084,2
+東涌,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.067,1
+東涌,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.067,1
+東涌,0.5,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.067,1
+東涌,1.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.02,1
+東涌,1.0,"metals, paper, plastics",最近單點,3,3,3,1,0.02,1
+東涌,1.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.02,1
+東涌,1.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.174,2
+東涌,1.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+東涌,1.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.174,2
+東涌,1.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.084,2
+東涌,1.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+東涌,1.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.084,2
+東涌,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.067,1
+東涌,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.067,1
+東涌,1.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.067,1
+東涌,3.0,"metals, paper, plastics",逐项最近,3,3,3,1,0.02,1
+東涌,3.0,"metals, paper, plastics",最近單點,3,3,3,1,0.02,1
+東涌,3.0,"metals, paper, plastics",贪心多點,3,3,3,1,0.02,1
+東涌,3.0,"glass bottles, food waste",逐项最近,2,2,2,2,0.174,2
+東涌,3.0,"glass bottles, food waste",最近單點,2,0,2,0,,2
+東涌,3.0,"glass bottles, food waste",贪心多點,2,2,2,2,0.174,2
+東涌,3.0,"clothes, plastic bottle, rechargeable batteries",逐项最近,3,3,3,3,0.084,2
+東涌,3.0,"clothes, plastic bottle, rechargeable batteries",最近單點,3,0,3,0,,2
+東涌,3.0,"clothes, plastic bottle, rechargeable batteries",贪心多點,3,3,3,2,0.084,2
+東涌,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",逐项最近,3,3,3,1,0.067,1
+東涌,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",最近單點,3,3,3,1,0.067,1
+東涌,3.0,"beverage cartons, fluorescent lamp, small electrical and electronic equipment",贪心多點,3,3,3,1,0.067,1

@@ -1,0 +1,8 @@
+# Tested with Python 3.12; all project-authored application and algorithm code is Python.
+streamlit==1.66.1
+pandas==2.2.3
+matplotlib==3.10.8
+folium==0.20.0
+streamlit-folium==0.27.4
+st-styled==0.5.1
+streamlit-scroll-to-top==0.0.4
